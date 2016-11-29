@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace telefon_defteri
 {
-    class Program
+   public  class kisi
     {
-        static void Main(string[] args)
-        {
-            //kodlama YAPILDI
-        }
+       // properties..........
     }
 }
